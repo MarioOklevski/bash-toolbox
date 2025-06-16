@@ -23,8 +23,14 @@ Clone this repository:
 ```bash
 git clone https://github.com/YOUR_USERNAME/bash-toolbox.git
 cd bash-toolbox
+./script.sh
 
-⚙️ Requirements
+Examples:
+-- ./run-project.sh 
+-- ./ip-city-sort.sh New York
+```
+
+## ⚙️ Requirements
 These scripts are built for:
 
 Bash 4.0+
@@ -38,7 +44,7 @@ bun
 
 Common GNU/Linux utilities: awk, sed, grep, curl, ping, df, etc.
 
-🧪 Testing
+## 🧪 Testing
 Scripts can be tested in any modern terminal emulator on:
 
 Ubuntu / Debian
@@ -51,7 +57,7 @@ macOS (with GNU coreutils installed)
 
 Some scripts may require sudo depending on their operation.
 
-🤝 Contributing
+## 🤝 Contributing
 Contributions are welcome!
 
 If you'd like to add new scripts, improve existing ones, or fix bugs:
@@ -68,10 +74,10 @@ Open a Pull Request
 
 Please follow the Conventional Commits specification.
 
-📄 License
+## 📄 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Inspired by everyday automation needs and refined through practical use.
 
 Crafted with ❤️ by Mario Oklevski
