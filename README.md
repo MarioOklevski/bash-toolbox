@@ -33,14 +33,14 @@ Examples:
 ## ⚙️ Requirements
 These scripts are built for:
 
-Bash 4.0+
-mako 1.10+
-hyprlock
-ghostty or kitty terminal emulator
-gnome-keyring
-GeoLite2-City.mmdb
-docker
-bun
+- Bash 4.0+
+- mako 1.10+
+- hyprlock
+- ghostty or kitty terminal emulator
+- gnome-keyring
+- GeoLite2-City.mmdb
+- docker
+- bun
 
 Common GNU/Linux utilities: awk, sed, grep, curl, ping, df, etc.
 
